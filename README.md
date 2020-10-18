@@ -1,6 +1,6 @@
 # Jokebook
 
-See the non-live coded (and better organized) version https://github.com/mslipenchuk267/jokebook_practice.
+This is the Jokebook app I made before the workshop to prepare myself, it looks nicer.
 
 Get random jokes pulled from https://github.com/15Dkatz/official_joke_api and save jokes you like for later.
 
